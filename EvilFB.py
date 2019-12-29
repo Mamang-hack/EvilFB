@@ -1,4 +1,4 @@
-#!/usr/bin/puthon2
+#!/usr/bin/python2
 #
 
 use strict;
