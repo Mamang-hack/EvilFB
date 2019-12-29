@@ -6,4 +6,4 @@
 
 3- chmod +x Ris.py
 
-Run perl EvilFB.pl Username wordlist.txt
+Run python2 EvilFB.py Username wordlist.txt
