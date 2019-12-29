@@ -22,8 +22,8 @@ open (LIST, $wordlist) || die "\n[-] Can't find/open $wordlist\n";
 
 print "\033[1;32m         ========================================================\n";
 print "\033[1;32m                           CONTACT ME ON FACEBOOK:               \n";
-print "\033[1;32m                 https://www.facebook.com/TRN.DJ.JOY/            \n";
-print "\033[1;32m                              Coded By : ETC                     \n";
+print "\033[1;32m                               Wong Kang Edzan                   \n";
+print "\033[1;32m                              Coded By : MR.3                    \n";
 print "\033[1;32m         ========================================================\n";
 
 print "\033[1;32m\n [+] Cracking Started on: $user ...\n\n";
