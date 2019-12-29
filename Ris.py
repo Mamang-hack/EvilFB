@@ -9,7 +9,7 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 system('clear');
 
 print "\033[1;32m    ======================================================\n";
-print "\033[1;32m         Usage: perl EvilFB.pl Username Passlist.txt \n";
+print "\033[1;32m         Usage: perl Ris.py Username Passlist.txt \n";
 print "\033[1;32m    ======================================================\n";
 exit; }
 
@@ -22,8 +22,8 @@ open (LIST, $wordlist) || die "\n[-] Can't find/open $wordlist\n";
 
 print "\033[1;32m         ========================================================\n";
 print "\033[1;32m                           CONTACT ME ON FACEBOOK:               \n";
-print "\033[1;32m                 https://www.facebook.com/TRN.DJ.JOY/            \n";
-print "\033[1;32m                              Coded By : ETC                     \n";
+print "\033[1;32m                               Wong Kang Edzan                   \n";
+print "\033[1;32m                              Coded By : MR.3                    \n";
 print "\033[1;32m         ========================================================\n";
 
 print "\033[1;32m\n [+] Cracking Started on: $user ...\n\n";
