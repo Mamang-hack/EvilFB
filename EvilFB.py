@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/puthon2
 #
 
 use strict;
@@ -9,7 +9,7 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 system('clear');
 
 print "\033[1;32m    ======================================================\n";
-print "\033[1;32m         Usage: perl EvilFB.pl Username Passlist.txt \n";
+print "\033[1;32m         Usage: python2 EvilFB.py Username Passlist.txt   \n";
 print "\033[1;32m    ======================================================\n";
 exit; }
 
